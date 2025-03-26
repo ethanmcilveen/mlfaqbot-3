@@ -1,0 +1,131 @@
+Hello 0
+Hey There 0 
+Hiya 0
+Greetings 0 
+Whats up? 0
+Yo 0
+Good morning 0
+Good Afternoon 0 
+Good evening 0
+Hi There 0
+Greetings 0 
+Goodbye 1
+Farewell 1
+See you later 1
+Bye-bye 1
+Take care 1
+Adios 1
+Au revoir 1
+So long 1
+Have a good one 1
+Catch you later 1
+Thank you 2
+Thanks 2
+Many thanks 2
+Much appreciated 2
+I'm grateful 2
+I appreciate it 2
+Thank you kindly 2
+You're too kind 2
+I owe you one 2
+I can't thank you enough 2
+The sun is shining. 3
+I like to drink tea in the morning. 3
+The cat is sleeping on the couch. 3
+The sky is blue. 3
+I have to go to work tomorrow. 3
+My favorite color is green. 3
+The train is running late. 3
+I love listening to music. 3
+The flowers are in bloom. 3
+I'm craving pizza. 3
+The ocean is beautiful. 3
+I need to go grocery shopping. 3
+I'm feeling tired today. 3
+The book I'm reading is really good. 3
+I want to travel the world. 3
+The trees are starting to turn green. 3
+I have a lot of work to do. 3
+My phone needs to be charged. 3
+I enjoy spending time with my friends. 3
+The rain is falling outside. 3
+I'm allergic to peanuts. 3
+I need to exercise more. 3
+The mountains are majestic. 3
+I'm not a morning person. 3
+I like to watch movies on the weekends. 3
+I'm trying to learn a new language. 3
+The beach is my happy place. 3
+I'm not a fan of spicy food. 3
+I need a vacation. 3
+The stars are twinkling in the sky. 3
+I'm a good listener. 3
+I want to learn how to play the guitar. 3
+I'm not very good at math. 3
+The wind is blowing through the trees. 3
+I love to dance. 3
+I need to get my car serviced. 3
+The moon is full tonight. 3
+I'm trying to eat healthier. 3
+The city lights are beautiful at night. 3
+I'm not a fan of horror movies. 3
+I like to read books before bed. 3
+I'm a fan of all types of music. 3
+The coffee is too hot. 3
+I want to take a cooking class. 3
+The snow is falling softly. 3
+I'm a fan of the beach and the mountains. 3
+I need to get my hair cut. 3
+The stars are aligned. 3
+I want to learn how to paint. 3
+The world is a beautiful place. 3
+What is your favorite color? 3
+Have you ever traveled to another country? 3
+What is your favorite type of music? 3
+Do you prefer coffee or tea? 3
+What is your favorite season of the year? 3
+Have you ever been skydiving? 3
+What is your favorite hobby? 3
+Do you like to read books? 3
+What is your favorite type of food? 3
+Do you have any pets? 3
+What is your favorite movie? 3
+Have you ever ridden a horse? 3
+What is your favorite book? 3
+Do you like to exercise? 3
+What is your favorite TV show? 3
+Have you ever gone bungee jumping? 3
+What is your favorite sport? 3
+Do you like to dance? 3
+What is your favorite animal? 3
+Have you ever gone scuba diving? 3
+What is your favorite type of cuisine? 3
+Do you like to play video games? 3
+What is your favorite place to visit? 3
+Have you ever gone rock climbing? 3
+What is your favorite holiday? 3
+Do you like to cook? 3
+What is your favorite outdoor activity? 3
+Have you ever gone zip-lining? 3
+What is your favorite form of art? 3
+Do you like to sing? 3
+What is your favorite childhood memory? 3
+Have you ever gone whitewater rafting? 3
+What is your favorite type of flower? 3
+Do you like to watch sports? 3
+What is your favorite type of tree? 3
+Have you ever gone hot air ballooning? 3
+What is your favorite type of dessert? 3
+Do you like to play board games? 3
+What is your favorite type of weather? 3
+Have you ever gone skiing or snowboarding? 3
+What is your favorite type of landscape? 3
+Do you like to take photographs? 3
+What is your favorite type of car? 3
+Have you ever gone parasailing? 3
+What is your favorite type of architecture? 3
+Do you like to watch documentaries? 3
+What is your favorite type of jewelry? 3
+Have you ever gone surfing? 3
+What is your favorite type of poetry? 3
+Do you like to go camping? 3
